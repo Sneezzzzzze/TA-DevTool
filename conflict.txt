@@ -1,1 +1,0 @@
-Line 1 (new branch): This line will cause a merge conflict.
